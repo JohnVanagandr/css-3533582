@@ -11,3 +11,21 @@ p{
     color: blueviolet;
     font-size: 12px;
 }
+header nav ul li{
+    list-style: none;
+}
+header nav ul li a{
+    color: brown;
+    text-decoration: none;
+}
+main section article a{
+    color: blueviolet;
+    text-decoration: none;
+}
+footer ul li{
+    list-style: none;
+}
+footer ul li a{
+    color: #840606;
+    text-decoration: none;
+}
